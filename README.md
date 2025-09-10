@@ -1,6 +1,8 @@
 # Garbage Classification ML Pipeline
 
-<p align="center">(Add a screenshot or diagram of your ML pipeline or results here. Place your image at <code>assets/images/garbage_classification_demo.jpg</code>.)</p>
+
+<img width="1440" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e93b0475-93ce-4e8b-9a47-f6eaf8047c86" />
+
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
