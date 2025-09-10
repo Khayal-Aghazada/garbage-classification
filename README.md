@@ -162,7 +162,3 @@ python ml/train.py --predict "sample.jpg" --model ml/out_192.keras \
 ---
 
 *Explore the inline code comments for full pipeline details.*
-
-
-Would you like me to generate a `CONTRIBUTING.md` or a `docs/` folder to go with this next?
-```
