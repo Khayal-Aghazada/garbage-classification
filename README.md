@@ -1,7 +1,10 @@
 # Garbage Classification ML Pipeline
 
 
-<img width="1440" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e93b0475-93ce-4e8b-9a47-f6eaf8047c86" />
+<img width="720" height="540" alt="confusion_matrix" src="1.png" />
+<img width="720" height="540" alt="confusion_matrix" src="2.png" />
+<img width="720" height="540" alt="confusion_matrix" src="3.png" />
+<img width="720" height="540" alt="confusion_matrix" src="4.png" />
 
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
