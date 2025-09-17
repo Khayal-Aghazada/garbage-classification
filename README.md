@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="1.png" alt="Image 1" width="400" height="300">
-  <img src="2.png" alt="Image 2" width="400" height="300"><br>
-  <img src="3.png" alt="Image 3" width="400" height="300">
-  <img src="4.png" alt="Image 4" width="400" height="300">
+  <img src="img/img1.png" alt="Image 1" width="400" height="300">
+  <img src="img/img2.png" alt="Image 2" width="400" height="300"><br>
+  <img src="img/img3.png" alt="Image 3" width="400" height="300">
+  <img src="img/img4.png" alt="Image 4" width="400" height="300">
 </p>
 
 
